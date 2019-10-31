@@ -1,3 +1,3 @@
 exports.createSchemaCustomization = ({ actions }) => {
-  actions.printTypeDefinitions()
+  actions.printTypeDefinitions({})
 }
